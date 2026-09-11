@@ -1,6 +1,6 @@
 # Saad Rasool Butt
 
-Backend engineer, eight years, mostly Go. I work on telematics — GPS ingest,
+Backend engineer, eight years, mostly Go. I work on telematics: GPS ingest,
 device protocols, and fleet data at volume.
 
 Most of what I've built is private: client systems under NDA, internal
@@ -32,10 +32,10 @@ Swagger docs, Docker Compose.
 Ethereum transaction parser with address subscriptions and block querying.
 
 `device-gateway` and `toolgate` both run gofmt, vet, the full test suite and
-the race detector in CI, and cross-compile for arm64 — the target they'd
+the race detector in CI, and cross-compile for arm64, the target they'd
 actually ship to.
 
 **Currently working on:** agent infrastructure, device and wire protocols,
 Go backends.
 
-**Available for contract work** — [Upwork](https://www.upwork.com/freelancers/~018ff43e3df3f94993)
+**Available for contract work:** [Upwork](https://www.upwork.com/freelancers/~018ff43e3df3f94993)
