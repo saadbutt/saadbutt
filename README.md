@@ -2,11 +2,15 @@
 
 AI agent and backend engineer. Eight years of backend work, plus a Master's in AI.
 
-Most AI integration work fails in the same few places: unvalidated input going
-straight into the model, the model's output going straight into a database,
-nobody counting tokens until the bill arrives, and no record of what happened
-when it got something wrong. I'm a backend engineer first, so those are the
-parts I build for.
+I build three kinds of systems. Permission layers that stop an agent's bad call
+from becoming a bad outcome, instead of trusting the model to only ask for
+things it should. Evaluation harnesses that prove a RAG or extraction pipeline
+actually retrieves the right thing, instead of eyeballing output and nodding.
+Generation pipelines that can't drift from a measured fact, instead of
+shipping whatever the model's draft said. The business problem underneath all
+three is the same: AI features demo well in a sales call and then fail
+expensively once real traffic, real documents, and real users hit them. Each
+repo below is one of those three, built for a real case rather than as a toy.
 
 Most of what I've built is private: client systems under NDA, internal platforms,
 production backends that will never have a public URL. The repositories below
